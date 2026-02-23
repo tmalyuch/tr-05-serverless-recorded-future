@@ -2,6 +2,8 @@
 
 # Recorded Future Relay (Cisco Hosted)
 
+> NOTE: This is a non-functional test PR branch used only to validate CI and PR wiring.
+
 A Cisco SecureX Relay implementation using [Recorded Future](https://www.recordedfuture.com/) as a third-party Cyber Threat
 Intelligence service provider.
 
