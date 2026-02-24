@@ -2,6 +2,8 @@
 
 # Recorded Future Relay (Cisco Hosted)
 
+> NOTE: This branch includes a trivial change created by the SRE assistant for a test pull request.
+
 A Cisco SecureX Relay implementation using [Recorded Future](https://www.recordedfuture.com/) as a third-party Cyber Threat
 Intelligence service provider.
 
