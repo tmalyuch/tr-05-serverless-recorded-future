@@ -136,3 +136,4 @@ Relationships are the following:
 - `Sighting` -> member-of `Indicator` (for Sighting of an Indicator)
 
 Test PR - please ignore
+Test PR created by assistant (run 2).
