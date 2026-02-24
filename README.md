@@ -10,6 +10,8 @@ easily packaged and deployed in docker container.
 
 The code is provided here purely for educational purposes.
 
+# Test PR - no functional changes
+
 ## Rationale
 
 - We need an application that will translate API requests from SecureX Threat Response to the third-party integration, and vice versa.
