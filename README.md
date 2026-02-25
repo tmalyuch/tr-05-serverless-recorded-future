@@ -39,6 +39,9 @@ You can perform two kinds of testing:
   `coverage run --source api/ -m pytest --verbose tests/unit/ && coverage report`
 
 **NOTE**. If you need input data for testing purposes you can use data from the [observables.json](code/observables.json)
+
+> Note: This line was added by the SRE assistant for a test pull request.
+
 ### Building the Docker Container
 In order to build the application, we need to use a `Dockerfile`.  
 
